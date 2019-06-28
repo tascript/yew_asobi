@@ -1,0 +1,8 @@
+[package]
+name = "asobi"
+version = "0.1.0"
+authors = ["wataru-script"]
+edition = "2018"
+
+[dependencies]
+yew = "0.6.0"
